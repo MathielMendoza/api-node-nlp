@@ -1,0 +1,15 @@
+{
+  "name": "Corpus2",
+  "locale": "es-ES",
+  "data": [
+    {
+      "intent": "process.MX",
+      "utterances": [
+        "aguascalientes"
+      ],
+      "answers": [
+        "MX-AGS"
+      ]
+    }
+  ]
+}

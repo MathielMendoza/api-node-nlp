@@ -1,0 +1,465 @@
+{
+  "name": "Corpus",
+  "locale": "es-ES",
+  "data": [
+    {
+      "intent": "process.postulate",
+      "utterances": [
+        "cuento",
+        "codigo",
+        "evaluacion",
+        "deseo",
+        "postularme",
+        "Cuento con un código de evaluación y deseo postularme"
+      ],
+      "answers": [
+        "1"
+      ]
+    },
+    {
+      "intent": "process.interview",
+      "utterances": [
+        "confirmar",
+        "entrevistas",
+        "pendientes",
+        "Confirmar entrevistas pendientes"
+      ],
+      "answers": [
+        "2"
+      ]
+    },
+
+    {
+      "intent": "process.country-argentina",
+      "utterances": [
+        "Argentina"
+      ],
+      "answers": [
+          "AR"
+      ]
+    },
+    {
+      "intent": "process.country-bolivia",
+      "utterances": [
+        "Bolivia"
+      ],
+      "answers": [
+          "BO"
+      ]
+    },
+    {
+      "intent": "process.country-chile",
+      "utterances": [
+        "Chile"
+      ],
+      "answers": [
+         "CL"
+      ]
+    },
+    {
+      "intent": "process.country-colombia",
+      "utterances": [
+        "Colombia"
+      ],
+      "answers": [
+         "CO"
+      ]
+    },
+    {
+      "intent": "process.country-costa-rica",
+      "utterances": [
+        "Costa Rica"
+      ],
+      "answers": [
+         "CR"
+      ]
+    },
+    {
+      "intent": "process.country-cuba",
+      "utterances": [
+        "Cuba"
+      ],
+      "answers": [
+         "CU"
+      ]
+    },
+    {
+      "intent": "process.country-ecuador",
+      "utterances": [
+        "Ecuador"
+      ],
+      "answers": [
+         "EC"
+      ]
+    },
+    {
+      "intent": "process.country-el-salvador",
+      "utterances": [
+        "El Salvador"
+      ],
+      "answers": [
+         "SV"
+      ]
+    },
+    {
+      "intent": "process.country-espana",
+      "utterances": [
+        "España"
+      ],
+      "answers": [
+         "ES"
+      ]
+    },
+    {
+      "intent": "process.country-guatemala",
+      "utterances": [
+        "Guatemala"
+      ],
+      "answers": [
+         "GT"
+      ]
+    },
+    {
+      "intent": "process.country-honduras",
+      "utterances": [
+        "Honduras"
+      ],
+      "answers": [
+         "HN"
+      ]
+    },
+    {
+      "intent": "process.country-mexico",
+      "utterances": [
+        "México"
+      ],
+      "answers": [
+         "MX"
+      ]
+    },
+    {
+      "intent": "process.country-nicaragua",
+      "utterances": [
+        "Nicaragua"
+      ],
+      "answers": [
+         "NI"
+      ]
+    },
+    {
+      "intent": "process.country-panama",
+      "utterances": [
+        "Panamá"
+      ],
+      "answers": [
+         "PA"
+      ]
+    },
+    {
+      "intent": "process.country-paraguay",
+      "utterances": [
+        "Paraguay"
+      ],
+      "answers": [
+         "PY"
+      ]
+    },
+    {
+      "intent": "process.country-peru",
+      "utterances": [
+        "Perú"
+      ],
+      "answers": [
+         "PE"
+      ]
+    },
+    {
+      "intent": "process.country-puerto-rico",
+      "utterances": [
+        "Puerto Rico"
+      ],
+      "answers": [
+         "PR"
+      ]
+    },
+    {
+      "intent": "process.country-republica-dominicana",
+      "utterances": [
+        "República Dominicana"
+      ],
+      "answers": [
+         "DO"
+      ]
+    },
+    {
+      "intent": "process.country-uruguay",
+      "utterances": [
+        "Uruguay"
+      ],
+      "answers": [
+         "UY"
+      ]
+    },
+    {
+      "intent": "process.country-venezuela",
+      "utterances": [
+        "Venezuela"
+      ],
+      "answers": [
+         "VE"
+      ]
+    },
+
+    {
+      "intent": "process.gender-female",
+      "utterances": [
+        "Dama",
+        "Femenino",
+        "Mujer"
+      ],
+      "answers": [
+        "2"
+      ]
+    },
+    {
+      "intent": "process.gender-male",
+      "utterances": [
+        "Caballero",
+        "Hombre",
+        "Masculino",
+        "Varón"
+      ],
+      "answers": [
+        "1"
+      ]
+    },
+
+    {
+      "intent": "process.jobType-base",
+      "utterances": [
+        "Base"
+      ],
+      "answers": [
+        "2"
+      ]
+    },
+    {
+      "intent": "process.jobType-scholarship-holder",
+      "utterances": [
+        "Becario"
+      ],
+      "answers": [
+        "3"
+      ]
+    },
+    {
+      "intent": "process.jobType-eventual",
+      "utterances": [
+        "Eventual"
+      ],
+      "answers": [
+        "4"
+      ]
+    },
+    {
+      "intent": "process.jobType-freelance",
+      "utterances": [
+        "Freelance"
+      ],
+      "answers": [
+        "5"
+      ]
+    },
+    {
+      "intent": "process.jobType-fee",
+      "utterances": [
+        "Honorarios"
+      ],
+      "answers": [
+        "6"
+      ]
+    },
+    {
+      "intent": "process.jobType-by-project",
+      "utterances": [
+        "Por proyecto"
+      ],
+      "answers": [
+        "7"
+      ]
+    },
+    {
+      "intent": "process.jobType-social-service",
+      "utterances": [
+        "Servicio social"
+      ],
+      "answers": [
+        "8"
+      ]
+    },
+    {
+      "intent": "process.jobType-outsourced-by-agency",
+      "utterances": [
+        "Subcontratado por agencia"
+      ],
+      "answers": [
+        "9"
+      ]
+    },
+
+    {
+      "intent": "process.language-german",
+      "utterances": [
+        "Alemán"
+      ],
+      "answers": [
+         "de"
+      ]
+    },
+    {
+      "intent": "process.language-spanish",
+      "utterances": [
+        "Español"
+      ],
+      "answers": [
+         "es"
+      ]
+    },
+    {
+      "intent": "process.language-french",
+      "utterances": [
+        "Francés"
+      ],
+      "answers": [
+         "fr"
+      ]
+    },
+    {
+      "intent": "process.language-english",
+      "utterances": [
+        "Inglés"
+      ],
+      "answers": [
+         "en"
+      ]
+    },
+
+    {
+      "intent": "process.marital-status-single",
+      "utterances": [
+        "Soltero",
+        "Soltera"
+      ],
+      "answers": [
+        "1"
+      ]
+    },
+    {
+      "intent": "process.marital-status-married",
+      "utterances": [
+        "casado",
+        "casada"
+      ],
+      "answers": [
+        "2"
+      ]
+    },
+    {
+      "intent": "process.marital-status-divorced",
+      "utterances": [
+        "Divorciado",
+        "Divorciada"
+      ],
+      "answers": [
+        "3"
+      ]
+    },
+    {
+      "intent": "process.marital-status-indistinct",
+      "utterances": [
+        "indistinto"
+      ],
+      "answers": [
+        "4"
+      ]
+    },
+    {
+      "intent": "process.marital-status-free-union",
+      "utterances": [
+        "union libre"
+      ],
+      "answers": [
+        "5"
+      ]
+    },
+    {
+      "intent": "process.marital-status-widower",
+      "utterances": [
+        "viudo",
+        "viuda"
+      ],
+      "answers": [
+        "6"
+      ]
+    },
+
+    {
+      "intent": "process.decision-accept",
+      "utterances": [
+        "Aceptar",
+        "CV",
+        "Consultar",
+        "Continuar",
+        "Correcto",
+        "Documento",
+        "Ok",
+        "Quiero",
+        "Si",
+        "Subir"
+      ],
+      "answers": [
+        "1"
+      ]
+    },
+    {
+      "intent": "process.decision-reject",
+      "utterances": [
+        "Abandonar",
+        "Cancelar",
+        "Menu",
+        "No",
+        "Otro",
+        "Regresar",
+        "Salir",
+        "Quiero"
+      ],
+      "answers": [
+        "2"
+      ]
+    },
+    {
+      "intent": "process.repeat",
+      "utterances": [
+        "Preguntar de nuevo",
+        "Preguntar",
+        "Repetir"
+      ],
+      "answers": [
+         "REP"
+      ]
+    },
+    {
+      "intent": "None",
+      "utterances": [
+        "aaaaaaaaaa",
+        "eeeeeeeeee",
+        "iiiiiiiiii",
+        "oooooooooo",
+        "uuuuuuuuuu"
+      ],
+      "answers": [
+        "0 - Lo siento, no entiendo"
+      ]
+    }
+  ]
+}
